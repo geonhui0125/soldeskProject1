@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Java_Frame/src"/>
+	<classpathentry kind="src" path="KBJ"/>
+	<classpathentry kind="src" path="pcshop/src"/>
+	<classpathentry kind="output" path="Java_Frame/bin"/>
+</classpath>
